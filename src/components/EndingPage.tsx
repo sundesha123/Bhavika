@@ -8,7 +8,7 @@ const EndingPage: React.FC = () => {
   const motionRef = useRef<HTMLDivElement>(null);
 
   // Single simple message
-  const message = "Hey Kavita(Butki)! Thank you for being the most amazing sister in the world! May our bond continue to grow stronger with each passing year.";
+  const message = "Hey Bhavika! Thank you for being the most amazing sister in the world! May our bond continue to grow stronger with each passing year.";
 
   useEffect(() => {
     // Create splash effects
